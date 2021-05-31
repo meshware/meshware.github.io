@@ -1,7 +1,7 @@
 # Site settings
 title: Mesh Ware
 SEOTitle: meshware.io | MeshWare
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-github-cup.jpg
 email: chenzhiguo@live.com
 description: "Every failure is leading towards success."
 keyword: "MeshWare, meshware.io"
@@ -18,11 +18,11 @@ sidebar-avatar: /img/xxx.jpg      # use absolute URL, seeing it's used in both `
 
 # SNS settings
 RSS: false
-# weibo_username:     meshware
-zhihu_username:     meshware
+#weibo_username:     meshware
+#zhihu_username:     meshware
 github_username:    meshware
-facebook_username:  meshware
-jianshu_username:   meshware
+#facebook_username:  meshware
+#jianshu_username:   meshware
 #twitter_username:   meshware
 
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: meshware.io               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: meshware.io               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Zhiguo.Chen",
+        title: "BLOG",
         href: "http://chenzhiguo.cn"
     },{
         title: "Apple",
