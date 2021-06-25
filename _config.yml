@@ -1,5 +1,5 @@
 # Site settings
-title: Mesh Ware
+title: MeshWare
 SEOTitle: meshware.io | MeshWare
 header-img: img/post-bg-github-cup.jpg
 email: chenzhiguo@live.com
@@ -12,7 +12,7 @@ github_repo: "https://github.com/meshware/meshware.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/xxx.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/qrcode_github.com.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
