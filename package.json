@@ -2,7 +2,7 @@
     "name": "meshware",
     "title": "MeshWare Team",
     "author": "BY <chenzhiguo@live.com>",
-    "version": "1.7.0",
+    "version": "1.0.0",
     "homepage": "http://meshware.io",
     "repository": {
         "type": "git",
@@ -10,11 +10,11 @@
     },
     "bugs": "https://github.com/meshware/meshware.github.io/issues",
     "devDependencies": {
-        "grunt": "1.4.1",
+        "grunt": "1.5.2",
         "grunt-contrib-less": "3.0.0",
         "grunt-contrib-watch": "1.1.0",
         "grunt-banner": "0.6.0",
-        "grunt-contrib-uglify": "5.0.1"
+        "grunt-contrib-uglify": "5.2.1"
     },
     "scripts": {
         "preview": "cd _site; python -m SimpleHTTPServer 8020",
